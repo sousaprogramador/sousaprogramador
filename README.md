@@ -1,17 +1,30 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Mateus Sousa and my sousaprogramador is "Japa"!
+### Hi there 👋
 
-<!--
-**sousaprogramador/sousaprogramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🐱‍💻  **Software Engineer**`Fullstack`
+- 🌱 I’m currently learning React & Typescript
 
-Here are some ideas to get you started:
+### 🛠 I code using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-05122A?&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
+
+![SQL](https://img.shields.io/badge/-SQL-05122A?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)
+
+![AWS](https://img.shields.io/badge/-AWS-05122A?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-05122A?&logo=Linux)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Vim](https://img.shields.io/badge/-VIM-05122A?style=flat&logo=neovim)
+
+---
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=manigandand&hide_title=true&hide_border=flase&show_icons=true&include_all_commits=true&count_private=true&line_height=21&&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manigandand&hide=php,html&hide_title=true&hide_border=true&layout=compact&langs_count=7&theme=tokyonight" />
